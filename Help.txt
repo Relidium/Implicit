@@ -1,0 +1,18 @@
+you can do !help [command] to see usage/aliases/descriptions etc on each command
+this file will be updated as more commands are added
+
+cat
+dog
+flip
+floof
+love
+meme
+poll
+rps
+botinfo
+help
+server
+addrole 
+ban 
+clear 
+kick 
