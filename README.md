@@ -1,4 +1,4 @@
-<img alt="Implicit" src="https://imgur.com/a/Biod8xM.png"/>
+<img alt="Implicit" src="https://imgur.com/a/Biod8xM"/>
 
 ## Implicit Discord Bot Info
 
