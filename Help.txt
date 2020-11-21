@@ -1,7 +1,9 @@
 you can do .help [command] to see usage/aliases/descriptions etc on each command
 this file will be updated as more commands are added
 
+
 cat
+cuteness
 dog
 flip
 floof
@@ -9,10 +11,30 @@ love
 meme
 poll
 rps
+weather
+avatar
 botinfo
 help
+nsfw
+ping
 server
+whois
 addrole 
 ban 
-clear 
-kick 
+kick
+unban
+addrole
+clear
+nick
+say
+slowmode
+
+--- NSFW Commands ---
+Note : For any of these commands (excluding nsfwhelp / nsfw) the channel must be set to NSFW.
+
+anal
+blowjob
+boobs
+bukkake
+pussy
+trap
