@@ -1,5 +1,5 @@
-you can do .help [command] to see usage/aliases/descriptions etc on each command
-this file will be updated as more commands are added
+##You can do .help [command] to see usage/aliases/descriptions etc on each command
+**This file will be updated as more commands are added**
 
 
 cat
@@ -29,8 +29,8 @@ nick
 say
 slowmode
 
---- NSFW Commands ---
-Note : For any of these commands (excluding nsfwhelp / nsfw) the channel must be set to NSFW.
+#--- NSFW Commands ---
+⚠️ **For any of these commands (excluding nsfwhelp / nsfw) the channel must be set to NSFW.**
 
 anal
 blowjob
