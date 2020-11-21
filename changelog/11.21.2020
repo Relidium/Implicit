@@ -1,0 +1,5 @@
++ Added cuteness command
++ Added membercount command for a simplified version of the current guilds member count, including bots and offline users
+
+* Improved ban command and kick command so you don't need to specify a reason
+* Improved the look of the help command
