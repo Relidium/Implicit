@@ -1,0 +1,11 @@
++ Added mute and unmute command
++ Added roleinfo command
++ Added announce command
++ Added roles command, gets the pings of all roles in the guild + the amount of roles in the guild - does NOT include the @everyone 'ping'
+* Fixed some bugs relating to the kick / ban commands
+* Improved nsfw commands
+* Added footers & timestamps to all of the commands that didnt already have it
+* Added onto help error message
+* Nick command now shows new nickname
+$ Bot no longer pings you when you do .membercount
+$ Minor bug fixes relating to the clear command
