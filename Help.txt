@@ -16,6 +16,7 @@ avatar
 botinfo
 help
 nsfw
+roles
 ping
 server
 membercount
