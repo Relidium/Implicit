@@ -37,11 +37,4 @@ say
 slowmode
 
 --- NSFW Commands ---
-⚠️ For any of these commands (excluding nsfwhelp / nsfw) the channel must be set to NSFW.
-
-anal
-blowjob
-boobs
-bukkake
-pussy
-trap
+Deprecated
