@@ -28,6 +28,7 @@ kick
 unban
 addrole
 mute
+rolemembers
 unmute
 softban
 clear
