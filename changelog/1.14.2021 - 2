@@ -1,5 +1,5 @@
 improved roleinfo (can now use role id/name instead of requiring a ping)
 improved cuteness command and love command
 addrole no longer requires a hashtag for the hex color
-clear command no longer instantly deletes its usage
+clear command no longer instantly deletes its usage ( only deleting after checking for permissions)
 genstring now uses a more secure method instead of using system random
