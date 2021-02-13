@@ -1,0 +1,6 @@
+love/cuteness command no longer based off of random values
+improved cuteness command
+fixed love/cuteness command not showing footer correctly
+
+added 'eval' command - this is experimental, only people with a certain id (really only me and a couple other people) can actually use it. this command will not be included in the 
+'commands' file of this repo.
