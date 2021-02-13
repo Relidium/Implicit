@@ -1,0 +1,2 @@
+reversed params for the avatar command so it doesnt require you ping yourself incase you just want to set a specific size for your profile picture.
+improved and fixed bugs related to purge command
