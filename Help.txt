@@ -33,7 +33,6 @@ unmute
 softban
 clear
 nick
-say
 slowmode
 
 --- NSFW Commands ---
