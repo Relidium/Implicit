@@ -1,0 +1,2 @@
+improve certain command syntaxes
+added a (0) to the permissions return of the roleinfo command if the role doesn't have any permissions
